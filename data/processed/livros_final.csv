@@ -1,0 +1,577 @@
+titulo,preco,rating,genero,disponibilidade,estoque,rating_cat,preco_normalizado
+It's Only the Himalayas,45.17,2,Travel,In stock,1,Ruim,0.7034813925570228
+Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,49.43,4,Travel,In stock,1,Bom,0.7887154861944777
+See America: A Celebration of Our National Parks & Treasured Sites,48.87,3,Travel,In stock,1,Regular,0.7775110044017607
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,2,Travel,In stock,1,Ruim,0.5388155262104841
+Under the Tuscan Sun,37.33,3,Travel,In stock,1,Regular,0.5466186474589836
+A Summer In Europe,44.34,2,Travel,In stock,1,Ruim,0.68687474989996
+The Great Railway Bazaar,30.54,1,Travel,In stock,1,Muito Ruim,0.4107643057222889
+A Year in Provence (Provence #1),56.88,4,Travel,In stock,1,Bom,0.9377751100440176
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,1,Travel,In stock,1,Muito Ruim,0.26410564225690275
+Neither Here nor There: Travels in Europe,38.95,3,Travel,In stock,1,Regular,0.5790316126450581
+"1,000 Places to See Before You Die",26.08,5,Travel,In stock,1,Excelente,0.32152861144457784
+Sharp Objects,47.82,4,Mystery,In stock,1,Bom,0.7565026010404161
+"In a Dark, Dark Wood",19.63,1,Mystery,In stock,1,Muito Ruim,0.1924769907963185
+The Past Never Ends,56.5,4,Mystery,In stock,1,Bom,0.930172068827531
+A Murder in Time,16.64,1,Mystery,In stock,1,Muito Ruim,0.1326530612244898
+The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,4,Mystery,In stock,1,Bom,0.6820728291316527
+The Last Mile (Amos Decker #2),54.21,2,Mystery,In stock,1,Ruim,0.8843537414965986
+That Darkness (Gardiner and Renner #1),13.92,1,Mystery,In stock,1,Muito Ruim,0.07823129251700679
+Tastes Like Fear (DI Marnie Rome #3),10.69,1,Mystery,In stock,1,Muito Ruim,0.01360544217687074
+A Time of Torment (Charlie Parker #14),48.35,5,Mystery,In stock,1,Excelente,0.7671068427370948
+A Study in Scarlet (Sherlock Holmes #1),16.73,2,Mystery,In stock,1,Ruim,0.13445378151260504
+Poisonous (Max Revere Novels #3),26.8,3,Mystery,In stock,1,Regular,0.33593437374949975
+Murder at the 42nd Street Library (Raymond Ambler #1),54.36,4,Mystery,In stock,1,Bom,0.8873549419767907
+Most Wanted,35.28,3,Mystery,In stock,1,Regular,0.5056022408963585
+Hide Away (Eve Duncan #20),11.84,1,Mystery,In stock,1,Muito Ruim,0.036614645858343335
+Boar Island (Anna Pigeon #19),59.48,3,Mystery,In stock,1,Regular,0.9897959183673468
+The Widow,27.26,2,Mystery,In stock,1,Ruim,0.3451380552220888
+Playing with Fire,13.71,3,Mystery,In stock,1,Regular,0.07402961184473791
+What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,5,Mystery,In stock,1,Excelente,0.30732292917166865
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,5,Mystery,In stock,1,Excelente,0.8461384553821528
+Delivering the Truth (Quaker Midwife Mystery #1),20.89,4,Mystery,In stock,1,Bom,0.21768707482993196
+The Mysterious Affair at Styles (Hercule Poirot #1),24.8,4,Mystery,In stock,1,Bom,0.29591836734693877
+In the Woods (Dublin Murder Squad #1),38.38,2,Mystery,In stock,1,Ruim,0.5676270508203282
+The Silkworm (Cormoran Strike #2),23.05,5,Mystery,In stock,1,Excelente,0.2609043617446979
+The Exiled,43.45,3,Mystery,In stock,1,Regular,0.6690676270508203
+The Cuckoo's Calling (Cormoran Strike #1),19.21,1,Mystery,In stock,1,Muito Ruim,0.1840736294517807
+Tipping the Velvet,53.74,1,Historical Fiction,In stock,1,Muito Ruim,0.8749499799919969
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3,Historical Fiction,In stock,1,Regular,0.39375750300120044
+A Flight of Arrows (The Pathfinders #2),55.53,5,Historical Fiction,In stock,1,Excelente,0.910764305722289
+The House by the Lake,36.95,1,Historical Fiction,In stock,1,Muito Ruim,0.539015606242497
+Mrs. Houdini,30.25,5,Historical Fiction,In stock,1,Excelente,0.4049619847939176
+The Marriage of Opposites,28.08,4,Historical Fiction,In stock,1,Bom,0.3615446178471388
+Glory over Everything: Beyond The Kitchen House,45.84,3,Historical Fiction,In stock,1,Regular,0.7168867547018808
+"Love, Lies and Spies",20.55,2,Historical Fiction,In stock,1,Ruim,0.2108843537414966
+A Paris Apartment,39.01,4,Historical Fiction,In stock,1,Bom,0.5802320928371348
+Lilac Girls,17.28,2,Historical Fiction,In stock,1,Ruim,0.14545818327330934
+The Constant Princess (The Tudor Court #1),16.62,3,Historical Fiction,In stock,1,Regular,0.1322529011604642
+The Invention of Wings,37.34,1,Historical Fiction,In stock,1,Muito Ruim,0.5468187274909965
+World Without End (The Pillars of the Earth #2),32.97,4,Historical Fiction,In stock,1,Bom,0.45938375350140054
+The Passion of Dolssa,28.32,5,Historical Fiction,In stock,1,Excelente,0.3663465386154462
+Girl With a Pearl Earring,26.77,1,Historical Fiction,In stock,1,Muito Ruim,0.3353341336534613
+Voyager (Outlander #3),21.07,5,Historical Fiction,In stock,1,Excelente,0.22128851540616246
+The Red Tent,35.66,5,Historical Fiction,In stock,1,Excelente,0.5132052821128451
+The Last Painting of Sara de Vos,55.55,2,Historical Fiction,In stock,1,Ruim,0.9111644657863144
+The Guernsey Literary and Potato Peel Pie Society,49.53,1,Historical Fiction,In stock,1,Muito Ruim,0.7907162865146058
+Girl in the Blue Coat,46.83,2,Historical Fiction,In stock,1,Ruim,0.7366946778711484
+Between Shades of Gray,20.79,5,Historical Fiction,In stock,1,Excelente,0.2156862745098039
+While You Were Mine,41.32,5,Historical Fiction,In stock,1,Excelente,0.6264505802320929
+The Secret Healer,34.56,3,Historical Fiction,In stock,1,Regular,0.4911964785914366
+Starlark,25.83,3,Historical Fiction,In stock,1,Regular,0.31652661064425763
+Lost Among the Living,27.7,4,Historical Fiction,In stock,1,Bom,0.3539415766306522
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,Sequential Art,In stock,1,Excelente,0.84593837535014
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,1,Sequential Art,In stock,1,Muito Ruim,0.12545018007202882
+This One Summer,19.49,4,Sequential Art,In stock,1,Bom,0.1896758703481392
+The Nameless City (The Nameless City #1),38.16,4,Sequential Art,In stock,1,Bom,0.5632252901160464
+"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,2,Sequential Art,In stock,1,Ruim,0.8209283713485394
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,3,Sequential Art,In stock,1,Regular,0.8081232492997198
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,5,Sequential Art,In stock,1,Excelente,0.07202881152460983
+"Pop Gun War, Volume 1: Gift",18.97,1,Sequential Art,In stock,1,Muito Ruim,0.17927170868347336
+Patience,10.16,3,Sequential Art,In stock,1,Regular,0.003001200480192084
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,4,Sequential Art,In stock,1,Bom,0.10864345738295317
+orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,1,Sequential Art,In stock,1,Muito Ruim,0.7683073229291716
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,2,Sequential Art,In stock,1,Ruim,0.7382953181272508
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,3,Sequential Art,In stock,1,Regular,0.7122849139655862
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,2,Sequential Art,In stock,1,Ruim,0.1982793117246899
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,2,Sequential Art,In stock,1,Ruim,0.38335334133653465
+I am a Hero Omnibus Volume 1,54.63,3,Sequential Art,In stock,1,Regular,0.8927571028411365
+"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,2,Sequential Art,In stock,1,Ruim,0.24209683873549417
+Danganronpa Volume 1,51.99,4,Sequential Art,In stock,1,Bom,0.8399359743897559
+"Codename Baboushka, Volume 1: The Conclave of Death",36.72,4,Sequential Art,In stock,1,Bom,0.5344137655062025
+Camp Midnight,17.08,4,Sequential Art,In stock,1,Bom,0.1414565826330532
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,2,Sequential Art,In stock,1,Ruim,0.5584233693477392
+The Shadow Hero (The Shadow Hero),33.14,1,Sequential Art,In stock,1,Muito Ruim,0.4627851140456183
+"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,4,Sequential Art,In stock,1,Bom,0.632452981192477
+Batman: The Long Halloween (Batman),36.5,2,Sequential Art,In stock,1,Ruim,0.5300120048019208
+Batman: The Dark Knight Returns (Batman),15.38,5,Sequential Art,In stock,1,Excelente,0.10744297719087637
+The Secret Garden,15.08,4,Classics,In stock,1,Bom,0.1014405762304922
+The Metamorphosis,28.58,1,Classics,In stock,1,Muito Ruim,0.37154861944777906
+The Pilgrim's Progress,50.26,2,Classics,In stock,1,Ruim,0.8053221288515405
+The Hound of the Baskervilles (Sherlock Holmes #5),14.82,2,Classics,In stock,1,Ruim,0.09623849539815926
+Little Women (Little Women #1),28.07,4,Classics,In stock,1,Bom,0.36134453781512604
+Gone with the Wind,32.49,3,Classics,In stock,1,Regular,0.44977991196478595
+Candide,58.63,3,Classics,In stock,1,Regular,0.9727891156462585
+Animal Farm,57.22,3,Classics,In stock,1,Regular,0.944577831132453
+Wuthering Heights,17.73,3,Classics,In stock,1,Regular,0.15446178471388555
+The Picture of Dorian Gray,29.7,2,Classics,In stock,1,Ruim,0.3939575830332132
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,4,Classics,In stock,1,Bom,0.3355342136854742
+Beowulf,38.35,2,Classics,In stock,1,Ruim,0.5670268107242897
+And Then There Were None,35.01,2,Classics,In stock,1,Ruim,0.5002000800320128
+The Story of Hong Gildong,43.19,4,Classics,In stock,1,Bom,0.6638655462184874
+The Little Prince,45.42,2,Classics,In stock,1,Ruim,0.708483393357343
+Sense and Sensibility,37.46,1,Classics,In stock,1,Muito Ruim,0.5492196878751501
+Of Mice and Men,47.11,2,Classics,In stock,1,Ruim,0.7422969187675069
+Emma,32.93,2,Classics,In stock,1,Ruim,0.45858343337334934
+Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,1,Classics,In stock,1,Muito Ruim,0.910764305722289
+Sophie's World,15.94,5,Philosophy,In stock,1,Excelente,0.11864745898359343
+The Death of Humanity: and the Case for Life,58.11,4,Philosophy,In stock,1,Bom,0.9623849539815926
+The Stranger,17.44,4,Philosophy,In stock,1,Bom,0.14865946378551423
+Proofs of God: Classical Arguments from Tertullian to Barth,54.21,1,Philosophy,In stock,1,Muito Ruim,0.8843537414965986
+Kierkegaard: A Christian Missionary to Christians,47.13,1,Philosophy,In stock,1,Muito Ruim,0.7426970788315327
+"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,5,Philosophy,In stock,1,Excelente,0.3985594237695078
+Critique of Pure Reason,20.75,1,Philosophy,In stock,1,Muito Ruim,0.21488595438175268
+"Run, Spot, Run: The Ethics of Keeping Pets",20.02,1,Philosophy,In stock,1,Muito Ruim,0.2002801120448179
+The Nicomachean Ethics,36.34,1,Philosophy,In stock,1,Muito Ruim,0.526810724289716
+Meditations,25.89,2,Philosophy,In stock,1,Ruim,0.31772709083633455
+Beyond Good and Evil,43.38,1,Philosophy,In stock,1,Muito Ruim,0.6676670668267307
+Chase Me (Paris Nights #2),25.27,5,Romance,In stock,1,Excelente,0.3053221288515406
+Black Dust,34.53,5,Romance,In stock,1,Excelente,0.4905962384953982
+Her Backup Boyfriend (The Sorensen Family #1),33.97,1,Romance,In stock,1,Muito Ruim,0.479391756702681
+First and First (Five Boroughs #3),15.97,4,Romance,In stock,1,Bom,0.11924769907963186
+Fifty Shades Darker (Fifty Shades #2),21.96,1,Romance,In stock,1,Muito Ruim,0.2390956382553021
+The Wedding Dress,24.12,1,Romance,In stock,1,Muito Ruim,0.282312925170068
+Suddenly in Love (Lake Haven #1),55.99,2,Romance,In stock,1,Ruim,0.9199679871948779
+Something More Than This,16.24,4,Romance,In stock,1,Bom,0.12464985994397755
+Doing It Over (Most Likely To #1),35.61,3,Romance,In stock,1,Regular,0.5122048819527811
+The Wedding Pact (The O'Malleys #2),32.61,3,Romance,In stock,1,Regular,0.45218087234893956
+Hold Your Breath (Search and Rescue #1),28.82,1,Romance,In stock,1,Muito Ruim,0.37635054021608644
+Dirty (Dive Bar #1),40.83,4,Romance,In stock,1,Bom,0.6166466586634654
+Take Me Home Tonight (Rock Star Romance #3),53.98,3,Romance,In stock,1,Regular,0.8797519007603041
+Off the Hook (Fishing for Trouble #1),47.67,3,Romance,In stock,1,Regular,0.7535014005602241
+A Gentleman's Position (Society of Gentlemen #3),14.75,5,Romance,In stock,1,Excelente,0.09483793517406962
+"Sit, Stay, Love",20.9,3,Romance,In stock,1,Regular,0.21788715486194474
+A Girl's Guide to Moving On (New Beginnings #2),31.3,1,Romance,In stock,1,Muito Ruim,0.42597038815526206
+The Perfect Play (Play by Play #1),59.99,3,Romance,In stock,1,Regular,1.0
+Dark Lover (Black Dagger Brotherhood #1),12.87,1,Romance,In stock,1,Muito Ruim,0.057222889155662246
+Changing the Game (Play by Play #2),13.38,3,Romance,In stock,1,Regular,0.06742697078831535
+A Walk to Remember,56.43,1,Romance,In stock,1,Muito Ruim,0.9287715086034414
+The Purest Hook (Second Circle Tattoos #3),12.25,1,Romance,In stock,1,Muito Ruim,0.04481792717086835
+The Obsession,45.43,1,Romance,In stock,1,Muito Ruim,0.7086834733893557
+Reservations for Two,11.1,3,Romance,In stock,1,Regular,0.021808723489395755
+Best of My Love (Fool's Gold #20),27.41,2,Romance,In stock,1,Ruim,0.3481392557022809
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,4,Womens Fiction,In stock,1,Bom,0.9473789515806322
+Will You Won't You Want Me?,13.86,3,Womens Fiction,In stock,1,Regular,0.07703081232492996
+Keep Me Posted,20.46,4,Womens Fiction,In stock,1,Bom,0.20908363345338135
+Grey (Fifty Shades #4),48.49,4,Womens Fiction,In stock,1,Bom,0.7699079631852741
+Meternity,43.58,3,Womens Fiction,In stock,1,Regular,0.6716686674669867
+Some Women,13.73,5,Womens Fiction,In stock,1,Excelente,0.07442977190876351
+Shopaholic Ties the Knot (Shopaholic #3),48.39,5,Womens Fiction,In stock,1,Excelente,0.767907162865146
+Can You Keep a Secret?,21.94,1,Womens Fiction,In stock,1,Muito Ruim,0.2386954781912765
+Twenties Girl,42.8,2,Womens Fiction,In stock,1,Ruim,0.6560624249699879
+The Undomestic Goddess,45.75,4,Womens Fiction,In stock,1,Bom,0.7150860344137655
+The Nanny Diaries (Nanny #1),52.53,5,Womens Fiction,In stock,1,Excelente,0.8507402961184474
+The Devil Wears Prada (The Devil Wears Prada #1),44.29,1,Womens Fiction,In stock,1,Muito Ruim,0.6858743497398959
+Something Borrowed (Darcy & Rachel #1),48.96,5,Womens Fiction,In stock,1,Excelente,0.779311724689876
+Something Blue (Darcy & Rachel #2),54.62,1,Womens Fiction,In stock,1,Muito Ruim,0.8925570228091235
+I've Got Your Number,19.69,1,Womens Fiction,In stock,1,Muito Ruim,0.19367747098839538
+The Edge of Reason (Bridget Jones #2),19.18,4,Womens Fiction,In stock,1,Bom,0.18347338935574228
+Bridget Jones's Diary (Bridget Jones #1),29.82,1,Womens Fiction,In stock,1,Muito Ruim,0.396358543417367
+Soumission,50.1,1,Fiction,In stock,1,Muito Ruim,0.8021208483393357
+Private Paris (Private #10),47.61,5,Fiction,In stock,1,Excelente,0.7523009203681472
+"We Love You, Charlie Freeman",50.27,5,Fiction,In stock,1,Excelente,0.8055222088835534
+Thirst,17.27,5,Fiction,In stock,1,Excelente,0.1452581032412965
+The Murder That Never Was (Forensic Instincts #5),54.11,3,Fiction,In stock,1,Regular,0.8823529411764706
+Tuesday Nights in 1980,21.04,2,Fiction,In stock,1,Ruim,0.22068827531012403
+The Vacationers,42.15,4,Fiction,In stock,1,Bom,0.6430572228891557
+The Regional Office Is Under Attack!,51.36,5,Fiction,In stock,1,Excelente,0.8273309323729492
+Finders Keepers (Bill Hodges Trilogy #2),53.53,5,Fiction,In stock,1,Excelente,0.8707482993197279
+The Time Keeper,27.88,5,Fiction,In stock,1,Excelente,0.3575430172068827
+The Testament of Mary,52.67,4,Fiction,In stock,1,Bom,0.8535414165666266
+The First Hostage (J.B. Collins #2),25.85,3,Fiction,In stock,1,Regular,0.31692677070828335
+Take Me with You,45.21,3,Fiction,In stock,1,Regular,0.704281712685074
+Still Life with Bread Crumbs,26.41,3,Fiction,In stock,1,Regular,0.32813125250100034
+Shtum,55.84,4,Fiction,In stock,1,Bom,0.9169667867146859
+My Name Is Lucy Barton,41.56,1,Fiction,In stock,1,Muito Ruim,0.6312525010004002
+My Mrs. Brown,24.48,3,Fiction,In stock,1,Regular,0.289515806322529
+Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,Fiction,In stock,1,Muito Ruim,0.37795118047218884
+I Am Pilgrim (Pilgrim #1),10.6,4,Fiction,In stock,1,Bom,0.011804721888755499
+Eligible (The Austen Project #4),27.09,3,Fiction,In stock,1,Regular,0.3417366946778711
+Eight Hundred Grapes,14.39,4,Fiction,In stock,1,Bom,0.08763505402160865
+Dear Mr. Knightley,11.21,5,Fiction,In stock,1,Excelente,0.024009603841536633
+Cometh the Hour (The Clifton Chronicles #6),25.01,3,Fiction,In stock,1,Regular,0.3001200480192077
+Balloon Animals,17.03,3,Fiction,In stock,1,Regular,0.14045618247298922
+A Man Called Ove,39.72,1,Fiction,In stock,1,Muito Ruim,0.594437775110044
+Birdsong: A Story in Pictures,54.64,3,Childrens,In stock,1,Regular,0.8929571828731493
+The Bear and the Piano,36.89,1,Childrens,In stock,1,Muito Ruim,0.5378151260504201
+The Secret of Dreadwillow Carse,56.13,1,Childrens,In stock,1,Muito Ruim,0.9227691076430572
+The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,58.08,4,Childrens,In stock,1,Bom,0.9617847138855542
+Little Red,13.47,3,Childrens,In stock,1,Regular,0.06922769107643058
+Walt Disney's Alice in Wonderland,12.96,5,Childrens,In stock,1,Excelente,0.059023609443777526
+Twenty Yawns,22.08,2,Childrens,In stock,1,Ruim,0.24149659863945575
+Rain Fish,23.57,3,Childrens,In stock,1,Regular,0.27130852340936373
+Once Was a Time,18.28,2,Childrens,In stock,1,Ruim,0.16546618647458985
+Luis Paints the World,53.95,3,Childrens,In stock,1,Regular,0.8791516606642658
+Nap-a-Roo,25.08,1,Childrens,In stock,1,Muito Ruim,0.30152060824329724
+The Whale,35.96,4,Childrens,In stock,1,Bom,0.5192076830732293
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,3,Childrens,In stock,1,Regular,0.8575430172068826
+Raymie Nightingale,34.41,2,Childrens,In stock,1,Ruim,0.4881952781112444
+Playing from the Heart,32.38,1,Childrens,In stock,1,Muito Ruim,0.4475790316126451
+Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,1,Childrens,In stock,1,Muito Ruim,0.25070028011204476
+The Wild Robot,56.07,3,Childrens,In stock,1,Regular,0.9215686274509803
+The Thing About Jellyfish,48.77,1,Childrens,In stock,1,Muito Ruim,0.7755102040816327
+The Lonely Ones,43.59,5,Childrens,In stock,1,Excelente,0.6718687474989996
+The Day the Crayons Came Home (Crayons),26.33,5,Childrens,In stock,1,Excelente,0.32653061224489793
+The Cat in the Hat (Beginner Books B-1),16.26,2,Childrens,In stock,1,Ruim,0.12505002000800322
+Red: The True Story of Red Riding Hood,28.54,3,Childrens,In stock,1,Regular,0.37074829931972786
+Horrible Bear!,37.52,2,Childrens,In stock,1,Ruim,0.5504201680672269
+Green Eggs and Ham (Beginner Books B-16),10.79,4,Childrens,In stock,1,Bom,0.015606242496998785
+Counting Thyme,10.62,1,Childrens,In stock,1,Muito Ruim,0.0122048819527811
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,2,Religion,In stock,1,Ruim,0.5594237695078031
+You Are What You Love: The Spiritual Power of Habit,21.87,4,Religion,In stock,1,Bom,0.23729491796718688
+God: The Most Unpleasant Character in All Fiction,30.03,5,Religion,In stock,1,Excelente,0.4005602240896359
+The Book of Mormon,24.57,3,Religion,In stock,1,Regular,0.2913165266106442
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,1,Religion,In stock,1,Muito Ruim,0.3523409363745498
+The Bhagavad Gita,57.49,3,Religion,In stock,1,Regular,0.9499799919967987
+Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,4,Religion,In stock,1,Bom,0.36834733893557425
+Worlds Elsewhere: Journeys Around Shakespeareâs Globe,40.3,5,Nonfiction,In stock,1,Excelente,0.6060424169667866
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,3,Nonfiction,In stock,1,Regular,0.4209683873549419
+Reasons to Stay Alive,26.41,2,Nonfiction,In stock,1,Ruim,0.32813125250100034
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,5,Nonfiction,In stock,1,Excelente,0.2621048419367747
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,4,Nonfiction,In stock,1,Bom,0.6836734693877551
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,3,Nonfiction,In stock,1,Regular,0.4223689475790316
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,3,Nonfiction,In stock,1,Regular,0.13525410164065624
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,1,Nonfiction,In stock,1,Muito Ruim,0.5426170468187276
+The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,1,Nonfiction,In stock,1,Muito Ruim,0.9213685474189676
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,4,Nonfiction,In stock,1,Bom,0.6366546618647458
+Reskilling America: Learning to Labor in the Twenty-First Century,19.83,2,Nonfiction,In stock,1,Ruim,0.1964785914365746
+In the Country We Love: My Family Divided,22.0,4,Nonfiction,In stock,1,Bom,0.2398959583833533
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,2,Nonfiction,In stock,1,Ruim,0.8871548619447779
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,5,Nonfiction,In stock,1,Excelente,0.3827531012404962
+Algorithms to Live By: The Computer Science of Human Decisions,30.81,1,Nonfiction,In stock,1,Muito Ruim,0.4161664665866346
+The Power of Now: A Guide to Spiritual Enlightenment,43.54,2,Nonfiction,In stock,1,Ruim,0.6708683473389355
+The Omnivore's Dilemma: A Natural History of Four Meals,38.21,2,Nonfiction,In stock,1,Ruim,0.5642256902761105
+The Genius of Birds,17.24,1,Nonfiction,In stock,1,Muito Ruim,0.14465786314525805
+The Artist's Way: A Spiritual Path to Higher Creativity,38.49,5,Nonfiction,In stock,1,Excelente,0.569827931172469
+So You've Been Publicly Shamed,12.23,2,Nonfiction,In stock,1,Ruim,0.04441776710684275
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,3,Nonfiction,In stock,1,Regular,0.1884753901560624
+Big Magic: Creative Living Beyond Fear,30.8,3,Nonfiction,In stock,1,Regular,0.4159663865546218
+Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,2,Nonfiction,In stock,1,Ruim,0.34853941576630654
+Agnostic: A Spirited Manifesto,12.51,5,Nonfiction,In stock,1,Excelente,0.05002000800320128
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,4,Nonfiction,In stock,1,Bom,0.5640256102440977
+Rip it Up and Start Again,35.02,5,Music,In stock,1,Excelente,0.5004001600640257
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,Music,In stock,1,Regular,0.9451780712284914
+How Music Works,37.32,2,Music,In stock,1,Ruim,0.5464185674269708
+Love Is a Mix Tape (Music #1),18.03,1,Music,In stock,1,Muito Ruim,0.16046418567426973
+Please Kill Me: The Uncensored Oral History of Punk,31.19,4,Music,In stock,1,Bom,0.4237695078031212
+Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,5,Music,In stock,1,Excelente,0.7010804321728691
+"Chronicles, Vol. 1",52.6,2,Music,In stock,1,Ruim,0.852140856342537
+This Is Your Brain on Music: The Science of a Human Obsession,38.4,1,Music,In stock,1,Muito Ruim,0.5680272108843537
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,3,Music,In stock,1,Regular,0.047018807523009194
+No One Here Gets Out Alive,20.02,5,Music,In stock,1,Excelente,0.2002801120448179
+Life,31.58,5,Music,In stock,1,Excelente,0.43157262905162064
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,2,Music,In stock,1,Ruim,0.9133653461384553
+Forever Rockers (The Rocker #12),28.8,3,Music,In stock,1,Regular,0.3759503801520608
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,Default,In stock,1,Regular,0.15846338535414164
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,Default,In stock,1,Bom,0.2519007603041217
+"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,Default,In stock,1,Ruim,0.07963185274109644
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,3,Default,In stock,1,Regular,0.24989995998399359
+Aladdin and His Wonderful Lamp,53.13,3,Default,In stock,1,Regular,0.8627450980392157
+Penny Maybe,33.29,3,Default,In stock,1,Regular,0.4657863145258103
+Maude (1883-1993):She Grew Up with the country,18.02,2,Default,In stock,1,Ruim,0.16026410564225688
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,5,Default,In stock,1,Excelente,0.2116846738695478
+Soul Reader,39.58,2,Default,In stock,1,Ruim,0.5916366546618647
+Bossypants,49.46,2,Default,In stock,1,Ruim,0.7893157262905162
+A World of Flavor: Your Gluten Free Passport,42.95,1,Default,In stock,1,Muito Ruim,0.6590636254501802
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,5,Default,In stock,1,Excelente,0.9353741496598639
+Tracing Numbers on a Train,41.6,3,Default,In stock,1,Regular,0.6320528211284514
+Thirteen Reasons Why,52.72,1,Default,In stock,1,Muito Ruim,0.8545418167266906
+The Secret (The Secret #1),27.37,4,Default,In stock,1,Bom,0.3473389355742297
+The Psychopath Test: A Journey Through the Madness Industry,36.0,2,Default,In stock,1,Ruim,0.5200080032012805
+The Kite Runner,41.82,4,Default,In stock,1,Bom,0.6364545818327331
+The Girl on the Train,55.02,2,Default,In stock,1,Ruim,0.9005602240896359
+The Emerald Mystery,23.15,2,Default,In stock,1,Ruim,0.2629051620648259
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,3,Default,In stock,1,Regular,0.4399759903961585
+The Art of War,33.34,5,Default,In stock,1,Excelente,0.4667867146858744
+Secrets and Lace (Fatal Hearts #1),20.27,1,Default,In stock,1,Muito Ruim,0.20528211284513803
+Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,1,Default,In stock,1,Muito Ruim,0.5388155262104841
+Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,1,Default,In stock,1,Muito Ruim,0.6212484993997599
+Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),10.76,1,Default,In stock,1,Muito Ruim,0.015006002400960382
+Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,Science Fiction,In stock,1,Muito Ruim,0.5518207282913166
+Join,35.67,5,Science Fiction,In stock,1,Excelente,0.513405362144858
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,4,Science Fiction,In stock,1,Bom,0.6660664265706282
+The Project,10.65,1,Science Fiction,In stock,1,Muito Ruim,0.012805122048819537
+Soft Apocalypse,26.12,2,Science Fiction,In stock,1,Ruim,0.32232893157262904
+Sleeping Giants (Themis Files #1),48.74,1,Science Fiction,In stock,1,Muito Ruim,0.7749099639855943
+Arena,21.36,4,Science Fiction,In stock,1,Bom,0.22709083633453378
+Foundation (Foundation (Publication Order) #1),32.42,1,Science Fiction,In stock,1,Muito Ruim,0.4483793517406963
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,1,Science Fiction,In stock,1,Muito Ruim,0.018207282913165267
+Ready Player One,19.07,4,Science Fiction,In stock,1,Bom,0.18127250900360142
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,2,Science Fiction,In stock,1,Ruim,0.4651860744297719
+Dune (Dune #1),54.86,1,Science Fiction,In stock,1,Muito Ruim,0.897358943577431
+Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,1,Science Fiction,In stock,1,Muito Ruim,0.8297318927571028
+Three Wishes (River of Time: California #1),44.18,2,Science Fiction,In stock,1,Ruim,0.6836734693877551
+The Last Girl (The Dominion Trilogy #1),36.26,2,Science Fiction,In stock,1,Ruim,0.5252100840336134
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,4,Science Fiction,In stock,1,Bom,0.4991996798719488
+The Book of Basketball: The NBA According to The Sports Guy,44.84,5,Sports And Games,In stock,1,Excelente,0.6968787515006003
+"Friday Night Lights: A Town, a Team, and a Dream",51.22,3,Sports And Games,In stock,1,Regular,0.8245298119247698
+Sugar Rush (Offensive Line #2),24.42,1,Sports And Games,In stock,1,Muito Ruim,0.2883153261304522
+Settling the Score (The Summer Games #1),44.91,2,Sports And Games,In stock,1,Ruim,0.6982793117246898
+Icing (Aces Hockey #2),40.44,4,Sports And Games,In stock,1,Bom,0.6088435374149659
+The Torch Is Passed: A Harding Family Story,19.09,1,Add A Comment,In stock,1,Muito Ruim,0.18167266906762702
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,4,Add A Comment,In stock,1,Bom,0.2777110844337735
+The Art Forger,40.76,3,Add A Comment,In stock,1,Regular,0.6152460984393757
+On a Midnight Clear,14.07,3,Add A Comment,In stock,1,Regular,0.08123249299719888
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,2,Add A Comment,In stock,1,Ruim,0.8781512605042017
+"Shobu Samurai, Project Aryoku (#3)",29.06,3,Add A Comment,In stock,1,Regular,0.38115246098439365
+Modern Romance,28.26,5,Add A Comment,In stock,1,Excelente,0.36514605842336934
+The White Queen (The Cousins' War #1),25.91,5,Add A Comment,In stock,1,Excelente,0.31812725090036015
+The Song of Achilles,37.4,5,Add A Comment,In stock,1,Excelente,0.5480192076830732
+The Immortal Life of Henrietta Lacks,40.67,2,Add A Comment,In stock,1,Ruim,0.6134453781512605
+The Dovekeepers,48.78,1,Add A Comment,In stock,1,Muito Ruim,0.7757102841136455
+More Than Music (Chasing the Dream #1),37.61,2,Add A Comment,In stock,1,Ruim,0.5522208883553421
+Code Name Verity (Code Name Verity #1),22.13,4,Add A Comment,In stock,1,Bom,0.24249699879951978
+Cell,20.29,4,Add A Comment,In stock,1,Bom,0.20568227290916363
+Angels Walking (Angels Walking #1),34.2,2,Add A Comment,In stock,1,Ruim,0.48399359743897563
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,2,Add A Comment,In stock,1,Ruim,0.9297719087635054
+A People's History of the United States,40.79,2,Add A Comment,In stock,1,Ruim,0.6158463385354142
+A Brush of Wings (Angels Walking #3),55.51,1,Add A Comment,In stock,1,Muito Ruim,0.9103641456582632
+Rook,37.86,4,Add A Comment,In stock,1,Bom,0.5572228891556622
+The Midnight Watch: A Novel of the Titanic and the Californian,26.2,1,Add A Comment,In stock,1,Muito Ruim,0.32392957182873144
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,4,Add A Comment,In stock,1,Bom,0.9831932773109243
+The Children,11.88,3,Add A Comment,In stock,1,Regular,0.03741496598639457
+One with You (Crossfire #5),15.71,4,Add A Comment,In stock,1,Bom,0.11404561824729893
+Without Shame,48.27,5,Add A Comment,In stock,1,Excelente,0.7655062024809924
+Watchmen,58.05,4,Add A Comment,In stock,1,Bom,0.9611844737895157
+Unicorn Tracks,18.78,3,Fantasy,In stock,1,Regular,0.1754701880752301
+"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,3,Fantasy,In stock,1,Regular,0.30032012805122044
+Princess Between Worlds (Wide-Awake Princess #5),13.34,5,Fantasy,In stock,1,Excelente,0.0666266506602641
+Masks and Shadows,56.4,2,Fantasy,In stock,1,Ruim,0.928171268507403
+Crown of Midnight (Throne of Glass #2),43.29,3,Fantasy,In stock,1,Regular,0.6658663465386154
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,2,Fantasy,In stock,1,Ruim,0.3617446978791516
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,1,Fantasy,In stock,1,Muito Ruim,0.8475390156062425
+Throne of Glass (Throne of Glass #1),35.07,3,Fantasy,In stock,1,Regular,0.5014005602240896
+The Glittering Court (The Glittering Court #1),44.28,1,Fantasy,In stock,1,Muito Ruim,0.6856742697078831
+Hollow City (Miss Peregrineâs Peculiar Children #2),42.98,1,Fantasy,In stock,1,Muito Ruim,0.6596638655462184
+The Star-Touched Queen,46.02,5,Fantasy,In stock,1,Excelente,0.7204881952781113
+The Hidden Oracle (The Trials of Apollo #1),52.26,2,Fantasy,In stock,1,Ruim,0.8453381352541016
+The Bane Chronicles (The Bane Chronicles #1-11),44.73,4,Fantasy,In stock,1,Bom,0.6946778711484594
+Island of Dragons (Unwanteds #7),29.65,1,Fantasy,In stock,1,Muito Ruim,0.39295718287314924
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,5,Fantasy,In stock,1,Excelente,0.550220088035214
+City of Glass (The Mortal Instruments #3),56.02,4,Fantasy,In stock,1,Bom,0.9205682272909164
+Searching for Meaning in Gailana,38.73,1,Fantasy,In stock,1,Muito Ruim,0.5746298519407762
+A Shard of Ice (The Black Symphony Saga #1),56.63,3,Fantasy,In stock,1,Regular,0.9327731092436975
+King's Folly (The Kinsman Chronicles #1),39.61,5,Fantasy,In stock,1,Excelente,0.5922368947579031
+Every Heart a Doorway (Every Heart A Doorway #1),12.16,5,Fantasy,In stock,1,Excelente,0.0430172068827531
+A Gathering of Shadows (Shades of Magic #2),44.81,4,Fantasy,In stock,1,Bom,0.6962785114045619
+The Raven Boys (The Raven Cycle #1),57.74,4,Fantasy,In stock,1,Bom,0.9549819927971188
+The False Prince (The Ascendance Trilogy #1),56.0,5,Fantasy,In stock,1,Excelente,0.9201680672268907
+Tell the Wind and Fire,45.51,3,Fantasy,In stock,1,Regular,0.7102841136454582
+Without Borders (Wanderlove #1),45.07,2,New Adult,In stock,1,Ruim,0.7014805922368947
+The Mistake (Off-Campus #2),43.29,3,New Adult,In stock,1,Regular,0.6658663465386154
+The Matchmaker's Playbook (Wingmen Inc. #1),55.85,1,New Adult,In stock,1,Muito Ruim,0.9171668667466987
+The Hook Up (Game On #1),36.29,5,New Adult,In stock,1,Excelente,0.5258103241296519
+Shameless,58.35,3,New Adult,In stock,1,Regular,0.9671868747499
+Off Sides (Off #1),39.45,5,New Adult,In stock,1,Excelente,0.5890356142456983
+The Requiem Red,22.65,1,Young Adult,In stock,1,Muito Ruim,0.25290116046418565
+Set Me Free,17.46,5,Young Adult,In stock,1,Excelente,0.14905962384953983
+The Natural History of Us (The Fine Art of Pretending #2),45.22,3,Young Adult,In stock,1,Regular,0.7044817927170868
+Obsidian (Lux #1),14.86,2,Young Adult,In stock,1,Ruim,0.09703881552621046
+Burning,28.81,3,Young Adult,In stock,1,Regular,0.37615046018407355
+A Fierce and Subtle Poison,28.13,4,Young Adult,In stock,1,Bom,0.3625450180072028
+Scarlett Epstein Hates It Here,43.55,5,Young Adult,In stock,1,Excelente,0.6710684273709483
+"Nightingale, Sing",38.28,1,Young Adult,In stock,1,Muito Ruim,0.5656262505002001
+Library of Souls (Miss Peregrineâs Peculiar Children #3),48.56,5,Young Adult,In stock,1,Excelente,0.7713085234093637
+Frostbite (Vampire Academy #2),29.99,5,Young Adult,In stock,1,Excelente,0.39975990396158456
+Wild Swans,14.36,2,Young Adult,In stock,1,Ruim,0.08703481392557022
+Until Friday Night (The Field Party #1),46.31,2,Young Adult,In stock,1,Ruim,0.7262905162064827
+This Is Where It Ends,27.12,2,Young Adult,In stock,1,Ruim,0.34233693477390953
+The Darkest Lie,35.35,5,Young Adult,In stock,1,Excelente,0.5070028011204482
+My Kind of Crazy,40.36,1,Young Adult,In stock,1,Muito Ruim,0.6072428971588635
+Don't Get Caught,55.35,1,Young Adult,In stock,1,Muito Ruim,0.9071628651460584
+Catching Jordan (Hundred Oaks),50.83,3,Young Adult,In stock,1,Regular,0.8167266906762705
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,4,Young Adult,In stock,1,Bom,0.9629851940776311
+The Epidemic (The Program 0.6),14.44,5,Young Adult,In stock,1,Excelente,0.08863545418167265
+Stars Above (The Lunar Chronicles #4.5),48.05,2,Young Adult,In stock,1,Ruim,0.7611044417767107
+No Love Allowed (Dodge Cove #1),54.65,4,Young Adult,In stock,1,Bom,0.893157262905162
+"Exit, Pursued by a Bear",51.34,4,Young Adult,In stock,1,Bom,0.8269307723089236
+The Alien Club,54.4,1,Young Adult,In stock,1,Muito Ruim,0.8881552621048419
+Don't Forget Steven,33.23,1,Young Adult,In stock,1,Muito Ruim,0.46458583433373346
+South of Sunshine,28.93,1,Young Adult,In stock,1,Muito Ruim,0.37855142056822727
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,4,Science,In stock,1,Bom,0.6592637054821929
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,5,Science,In stock,1,Excelente,0.9473789515806322
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,4,Science,In stock,1,Bom,0.6948779511804722
+Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,1,Science,In stock,1,Muito Ruim,0.5510204081632653
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,1,Science,In stock,1,Muito Ruim,0.9183673469387754
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,1,Science,In stock,1,Muito Ruim,0.36814725890356137
+The Origin of Species,10.01,4,Science,In stock,1,Bom,0.0
+The Grand Design,13.76,3,Science,In stock,1,Regular,0.07503001200480192
+Peak: Secrets from the New Science of Expertise,16.28,2,Science,In stock,1,Ruim,0.12545018007202882
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,4,Science,In stock,1,Bom,0.060424169667867136
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,5,Science,In stock,1,Excelente,0.9471788715486195
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,2,Science,In stock,1,Ruim,0.31652661064425763
+Seven Brief Lessons on Physics,30.6,4,Science,In stock,1,Bom,0.4119647859143658
+The Selfish Gene,29.45,1,Science,In stock,1,Muito Ruim,0.38895558223289306
+A Light in the Attic,51.77,3,Poetry,In stock,1,Regular,0.8355342136854742
+The Black Maria,52.15,1,Poetry,In stock,1,Muito Ruim,0.8431372549019607
+Shakespeare's Sonnets,20.66,4,Poetry,In stock,1,Bom,0.21308523409363744
+Olio,23.88,1,Poetry,In stock,1,Muito Ruim,0.2775110044017607
+You can't bury them all: Poems,33.63,2,Poetry,In stock,1,Ruim,0.47258903561424576
+Slow States of Collapse: Poems,57.31,3,Poetry,In stock,1,Regular,0.9463785514205683
+Untitled Collection: Sabbath Poems 2014,14.27,4,Poetry,In stock,1,Bom,0.08523409363745497
+Poems That Make Grown Women Cry,14.19,4,Poetry,In stock,1,Bom,0.08363345338135253
+Night Sky with Exit Wounds,41.05,1,Poetry,In stock,1,Muito Ruim,0.621048419367747
+salt.,46.78,4,Poetry,In stock,1,Bom,0.7356942777110844
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,5,Poetry,In stock,1,Excelente,0.8179271708683473
+Out of Print: City Lights Spotlight No. 14,53.64,5,Poetry,In stock,1,Excelente,0.8729491796718687
+Les Fleurs du Mal,29.04,5,Poetry,In stock,1,Excelente,0.38075230092036816
+Howl and Other Poems,40.45,2,Poetry,In stock,1,Ruim,0.6090436174469789
+Leave This Song Behind: Teen Poetry at Its Best,51.17,5,Poetry,In stock,1,Excelente,0.8235294117647058
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,5,Poetry,In stock,1,Excelente,0.10824329731892757
+The Crossover,38.77,4,Poetry,In stock,1,Bom,0.5754301720688276
+Booked,17.49,5,Poetry,In stock,1,Excelente,0.1496598639455782
+Twenty Love Poems and a Song of Despair,30.95,4,Poetry,In stock,1,Bom,0.41896758703481385
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,1,Paranormal,In stock,1,Muito Ruim,0.10784313725490197
+Wall and Piece,44.18,4,Art,In stock,1,Bom,0.6836734693877551
+Feathers: Displays of Brilliant Plumage,49.05,3,Art,In stock,1,Regular,0.7811124449779911
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,4,Art,In stock,1,Bom,0.7727090836334534
+The New Drawing on the Right Side of the Brain,43.02,3,Art,In stock,1,Regular,0.6604641856742698
+History of Beauty,10.29,4,Art,In stock,1,Bom,0.0056022408963585305
+The Story of Art,41.14,4,Art,In stock,1,Bom,0.6228491396558623
+The Art Book,32.34,2,Art,In stock,1,Ruim,0.4467787114845939
+Ways of Seeing,39.51,5,Art,In stock,1,Excelente,0.590236094437775
+The Lucifer Effect: Understanding How Good People Turn Evil,10.4,1,Psychology,In stock,1,Muito Ruim,0.007803121248499411
+The Golden Condom: And Other Essays on Love Lost and Found,39.43,1,Psychology,In stock,1,Muito Ruim,0.5886354541816726
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,3,Psychology,In stock,1,Regular,0.9255702280912366
+An Unquiet Mind: A Memoir of Moods and Madness,21.3,3,Psychology,In stock,1,Regular,0.22589035614245698
+"Thinking, Fast and Slow",21.14,1,Psychology,In stock,1,Muito Ruim,0.2226890756302521
+Civilization and Its Discontents,59.95,2,Psychology,In stock,1,Ruim,0.9991996798719488
+8 Keys to Mental Health Through Exercise,31.04,1,Psychology,In stock,1,Muito Ruim,0.42076830732292914
+The Argonauts,10.93,2,Autobiography,In stock,1,Ruim,0.018407362945178068
+M Train,27.18,1,Autobiography,In stock,1,Muito Ruim,0.3435374149659864
+Lab Girl,40.85,1,Autobiography,In stock,1,Muito Ruim,0.617046818727491
+Approval Junkie: Adventures in Caring Too Much,58.81,5,Autobiography,In stock,1,Excelente,0.976390556222489
+Running with Scissors,12.91,4,Autobiography,In stock,1,Bom,0.05802320928371349
+Me Talk Pretty One Day,57.6,2,Autobiography,In stock,1,Ruim,0.9521808723489396
+Lust & Wonder,11.87,2,Autobiography,In stock,1,Ruim,0.037214885954381736
+Life Without a Recipe,59.04,5,Autobiography,In stock,1,Excelente,0.9809923969587835
+A Heartbreaking Work of Staggering Genius,54.29,5,Autobiography,In stock,1,Excelente,0.885954381752701
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,2,Parenting,In stock,1,Ruim,0.5470188075230092
+Fifty Shades Freed (Fifty Shades #3),15.36,5,Adult Fiction,In stock,1,Excelente,0.10704281712685072
+The Long Haul (Diary of a Wimpy Kid #9),44.07,1,Humor,In stock,1,Muito Ruim,0.6814725890356143
+Old School (Diary of a Wimpy Kid #10),11.83,5,Humor,In stock,1,Excelente,0.036414565826330535
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,4,Humor,In stock,1,Bom,0.3195278111244498
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,5,Humor,In stock,1,Excelente,0.09483793517406962
+Dress Your Family in Corduroy and Denim,43.68,3,Humor,In stock,1,Regular,0.6736694677871148
+Toddlers Are A**holes: It's Not Your Fault,25.55,1,Humor,In stock,1,Muito Ruim,0.31092436974789917
+When You Are Engulfed in Flames,30.89,5,Humor,In stock,1,Excelente,0.4177671068427371
+Naked,31.69,3,Humor,In stock,1,Regular,0.43377350940376147
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,5,Humor,In stock,1,Excelente,0.9101640656262505
+Holidays on Ice,51.07,2,Humor,In stock,1,Ruim,0.8215286114445778
+Security,39.25,2,Horror,In stock,1,Ruim,0.5850340136054422
+Follow You Home,21.36,1,Horror,In stock,1,Muito Ruim,0.22709083633453378
+The Loney,23.4,1,Horror,In stock,1,Muito Ruim,0.267907162865146
+Pet Sematary,10.56,3,Horror,In stock,1,Regular,0.011004401760704295
+Doctor Sleep (The Shining #2),40.12,2,Horror,In stock,1,Ruim,0.6024409763905562
+Psycho: Sanitarium (Psycho #1.5),36.97,5,Horror,In stock,1,Excelente,0.5394157663065225
+Can You Keep a Secret? (Fear Street Relaunch #4),48.64,1,Horror,In stock,1,Muito Ruim,0.7729091636654661
+Red Dragon (Hannibal Lecter #1),23.37,3,Horror,In stock,1,Regular,0.26730692276910767
+Dracula the Un-Dead,35.63,5,Horror,In stock,1,Excelente,0.5126050420168068
+Night Shift (Night Shift #1-20),12.75,4,Horror,In stock,1,Bom,0.054821928771508606
+Needful Things,47.51,4,Horror,In stock,1,Bom,0.7503001200480192
+Misery,34.79,2,Horror,In stock,1,Ruim,0.49579831932773105
+It,25.01,3,Horror,In stock,1,Regular,0.3001200480192077
+'Salem's Lot,49.56,4,Horror,In stock,1,Bom,0.7913165266106443
+The Stand,57.86,2,Horror,In stock,1,Ruim,0.9573829531812724
+The Girl with All the Gifts,49.47,3,Horror,In stock,1,Regular,0.7895158063225289
+House of Leaves,54.89,1,Horror,In stock,1,Muito Ruim,0.8979591836734694
+Sapiens: A Brief History of Humankind,54.23,5,History,In stock,1,Excelente,0.8847539015606242
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,1,History,In stock,1,Muito Ruim,0.31032412965186074
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,1,History,In stock,1,Muito Ruim,0.19447779111644659
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,2,History,In stock,1,Ruim,0.5256102440976391
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,1,History,In stock,1,Muito Ruim,0.9929971988795518
+Zealot: The Life and Times of Jesus of Nazareth,24.7,3,History,In stock,1,Regular,0.2939175670268107
+A Distant Mirror: The Calamitous 14th Century,14.58,3,History,In stock,1,Regular,0.09143657462985194
+1491: New Revelations of the Americas Before Columbus,21.8,3,History,In stock,1,Regular,0.23589435774309725
+Brilliant Beacons: A History of the American Lighthouse,11.45,3,History,In stock,1,Regular,0.028811524609843927
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,5,History,In stock,1,Excelente,0.6896758703481392
+A Short History of Nearly Everything,52.4,5,History,In stock,1,Excelente,0.8481392557022809
+The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,2,History,In stock,1,Ruim,0.5934373749499801
+Catherine the Great: Portrait of a Woman,58.55,4,History,In stock,1,Bom,0.971188475390156
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,5,History,In stock,1,Excelente,0.6582633053221287
+The Hiding Place,55.91,4,History,In stock,1,Bom,0.9183673469387754
+America's War for the Greater Middle East: A Military History,51.22,2,History,In stock,1,Ruim,0.8245298119247698
+The Guns of August,14.54,2,History,In stock,1,Ruim,0.0906362545018007
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,2,History,In stock,1,Ruim,0.6740696278511406
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3,Food And Drink,In stock,1,Regular,0.41036414565826324
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,1,Food And Drink,In stock,1,Muito Ruim,0.9283713485394157
+My Paris Kitchen: Recipes and Stories,33.37,2,Food And Drink,In stock,1,Ruim,0.4673869547819127
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,4,Food And Drink,In stock,1,Bom,0.08023209283713484
+"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,1,Food And Drink,In stock,1,Muito Ruim,0.6022408963585434
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,5,Food And Drink,In stock,1,Excelente,0.5468187274909965
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,2,Food And Drink,In stock,1,Ruim,0.5520208083233293
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,1,Food And Drink,In stock,1,Muito Ruim,0.6250500200080031
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,3,Food And Drink,In stock,1,Regular,0.6432573029211683
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,3,Food And Drink,In stock,1,Regular,0.37535014005602235
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,1,Food And Drink,In stock,1,Muito Ruim,0.1908763505402161
+Barefoot Contessa Back to Basics,28.01,1,Food And Drink,In stock,1,Muito Ruim,0.3601440576230492
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,5,Food And Drink,In stock,1,Excelente,0.8125250100040016
+My Kitchen Year: 136 Recipes That Saved My Life,11.53,2,Food And Drink,In stock,1,Ruim,0.03041216486594637
+Everyday Italian: 125 Simple and Delicious Recipes,20.1,5,Food And Drink,In stock,1,Excelente,0.2018807523009204
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,1,Food And Drink,In stock,1,Muito Ruim,0.5754301720688276
+Cravings: Recipes for What You Want to Eat,20.5,3,Food And Drink,In stock,1,Regular,0.20988395358143255
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,4,Food And Drink,In stock,1,Bom,0.04661864745898359
+32 Yolks,53.63,2,Food And Drink,In stock,1,Ruim,0.8727490996398559
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,5,Food And Drink,In stock,1,Excelente,0.02741096438575432
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,4,Food And Drink,In stock,1,Bom,0.7202881152460984
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,2,Food And Drink,In stock,1,Ruim,0.36494597839135656
+The Barefoot Contessa Cookbook,59.92,5,Food And Drink,In stock,1,Excelente,0.9985994397759104
+Better Homes and Gardens New Cook Book,39.61,3,Food And Drink,In stock,1,Regular,0.5922368947579031
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,5,Food And Drink,In stock,1,Excelente,0.02080832332933175
+Redeeming Love,20.47,5,Christian Fiction,In stock,1,Excelente,0.20928371348539412
+Close to You,49.46,4,Christian Fiction,In stock,1,Bom,0.7893157262905162
+Shadows of the Past (Logan Point #1),39.67,5,Christian Fiction,In stock,1,Excelente,0.5934373749499801
+Like Never Before (Walker Family #2),28.77,2,Christian Fiction,In stock,1,Ruim,0.37535014005602235
+Counted With the Stars (Out from Egypt #1),17.97,5,Christian Fiction,In stock,1,Excelente,0.15926370548219285
+If I Run (If I Run #1),49.97,4,Christian Fiction,In stock,1,Bom,0.7995198079231692
+The Dirty Little Secrets of Getting Your Dream Job,33.34,4,Business,In stock,1,Bom,0.4667867146858744
+The Third Wave: An Entrepreneurâs Vision of the Future,12.61,5,Business,In stock,1,Excelente,0.05202080832332932
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,3,Business,In stock,1,Regular,0.35094037615046014
+Shoe Dog: A Memoir by the Creator of NIKE,23.99,2,Business,In stock,1,Ruim,0.2797118847539015
+Made to Stick: Why Some Ideas Survive and Others Die,38.85,5,Business,In stock,1,Excelente,0.57703081232493
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,1,Business,In stock,1,Muito Ruim,0.6628651460584234
+The Art of Startup Fundraising,21.0,3,Business,In stock,1,Regular,0.21988795518207283
+Born for This: How to Find the Work You Were Meant to Do,21.59,5,Business,In stock,1,Excelente,0.2316926770708283
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,1,Business,In stock,1,Muito Ruim,0.5382152861144457
+"Rich Dad, Poor Dad",51.74,1,Business,In stock,1,Muito Ruim,0.8349339735894358
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3,Business,In stock,1,Regular,0.4783913565426171
+Rework,44.88,2,Business,In stock,1,Ruim,0.6976790716286515
+Louisa: The Extraordinary Life of Mrs. Adams,16.85,2,Biography,In stock,1,Ruim,0.13685474189675872
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,2,Biography,In stock,1,Ruim,0.22288915566226486
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,1,Biography,In stock,1,Muito Ruim,0.5910364145658262
+Benjamin Franklin: An American Life,48.19,3,Biography,In stock,1,Regular,0.7639055622248899
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,3,Biography,In stock,1,Regular,0.6514605842336935
+In Her Wake,12.84,1,Thriller,In stock,1,Muito Ruim,0.056622649059623845
+The Elephant Tree,23.82,5,Thriller,In stock,1,Excelente,0.2763105242096839
+Behind Closed Doors,52.22,4,Thriller,In stock,1,Bom,0.8445378151260504
+You (You #1),43.61,5,Thriller,In stock,1,Excelente,0.6722689075630252
+The Guilty (Will Robie #4),13.82,2,Thriller,In stock,1,Ruim,0.07623049219687876
+The 14th Colony (Cotton Malone #11),39.24,1,Thriller,In stock,1,Muito Ruim,0.5848339335734294
+Give It Back,18.32,2,Thriller,In stock,1,Ruim,0.16626650660264106
+Killing Floor (Jack Reacher #1),31.49,4,Thriller,In stock,1,Bom,0.4297719087635053
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,3,Thriller,In stock,1,Regular,0.9943977591036415
+Far From True (Promise Falls Trilogy #2),34.93,2,Thriller,In stock,1,Ruim,0.49859943977591037
+The Travelers,15.77,1,Thriller,In stock,1,Muito Ruim,0.11524609843937574
+When We Collided,31.77,1,Contemporary,In stock,1,Muito Ruim,0.4353741496598639
+Someone Like You (The Harrisons #2),52.79,5,Contemporary,In stock,1,Excelente,0.8559423769507802
+We Are All Completely Beside Ourselves,24.04,1,Contemporary,In stock,1,Muito Ruim,0.28071228491396555
+The Four Agreements: A Practical Guide to Personal Freedom,17.66,5,Spirituality,In stock,1,Excelente,0.15306122448979592
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,5,Spirituality,In stock,1,Excelente,0.44477791116446586
+Chasing Heaven: What Dying Taught Me About Living,37.8,2,Spirituality,In stock,1,Ruim,0.5560224089635853
+If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,1,Spirituality,In stock,1,Muito Ruim,0.21808723489395757
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,2,Spirituality,In stock,1,Ruim,0.7266906762705081
+A New Earth: Awakening to Your Life's Purpose,55.65,5,Spirituality,In stock,1,Excelente,0.9131652661064426
+Logan Kade (Fallen Crest High #5.5),13.12,2,Academic,In stock,1,Ruim,0.062224889955982375
+Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,1,Self Help,In stock,1,Muito Ruim,0.7270908363345339
+How to Be Miserable: 40 Strategies You Already Use,46.03,1,Self Help,In stock,1,Muito Ruim,0.720688275310124
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,3,Self Help,In stock,1,Regular,0.8431372549019607
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,3,Self Help,In stock,1,Regular,0.041416566626650664
+How to Stop Worrying and Start Living,46.49,5,Self Help,In stock,1,Excelente,0.7298919567827131
+All the Light We Cannot See,29.87,5,Historical,In stock,1,Excelente,0.39735894357743096
+The Girl You Left Behind (The Girl You Left Behind #1),15.79,1,Historical,In stock,1,Muito Ruim,0.11564625850340134
+(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,5,Christian,In stock,1,Excelente,0.8801520608243297
+Crazy Love: Overwhelmed by a Relentless God,47.72,2,Christian,In stock,1,Ruim,0.754501800720288
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,1,Christian,In stock,1,Muito Ruim,0.31532613045218083
+Silence in the Dark (Logan Point #4),58.33,3,Suspense,In stock,1,Regular,0.9667867146858743
+The Grownup,35.88,1,Short Stories,In stock,1,Muito Ruim,0.5176070428171269
+Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,5,Novels,In stock,1,Excelente,0.896358543417367
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,3,Health,In stock,1,Regular,0.7811124449779911
+"Eat Fat, Get Thin",54.07,2,Health,In stock,1,Ruim,0.8815526210484194
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,5,Health,In stock,1,Excelente,0.7943177270908364
+The Art and Science of Low Carbohydrate Living,52.98,5,Health,In stock,1,Excelente,0.8597438975590235
+Libertarianism for Beginners,51.33,2,Politics,In stock,1,Ruim,0.8267306922769107
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,4,Politics,In stock,1,Bom,0.853141256502601
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,1,Politics,In stock,1,Muito Ruim,0.9373749499799919
+Amid the Chaos,36.58,1,Cultural,In stock,1,Muito Ruim,0.5316126450580232
+Dark Notes,19.19,5,Erotica,In stock,1,Excelente,0.1836734693877551
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,1,Crime,In stock,1,Muito Ruim,0.019207683073229308
